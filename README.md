@@ -1,1 +1,1 @@
-A simple E commerce website done by Collins Ozigbo, Amin and Samuel
+A simple E commerce website done by Collins Ozigbo, Ameen and Samuel
